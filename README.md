@@ -1,7 +1,7 @@
 # Sequential-PageRank
 
 
-SequentialPageRank is a java file that calculates the page ranks of different “sites” that link to other “sites” which are provided in an input file, the top 10 "sites" with their page ranks are printed to the console while all sorted "sites" and their page ranks are written to an output text file like the one provided in this repo. The format for the input files looks as such but without the extra spaces inbetween lines:
+SequentialPageRank is a java file that calculates the page ranks of different “sites” that link to other “sites” which are provided in an input file, the top 10 "sites" with their page ranks are printed to the console while all sorted "sites" and their page ranks are written to an output text file like the one provided in this repo. The format for the input files looks as such, but without the extra spaces inbetween lines:
 
 0
 
