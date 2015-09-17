@@ -61,3 +61,8 @@ These are the top 10 pageranks:
 [9: 0.016169479016858404]
 
 [10: 0.016169479016858404]
+
+
+http://www.tutorialspoint.com/java/java_using_comparator.htm
+
+The above website was helpful with learning about comparators. Before this I had never played around with custom comparators in java. I was then able to write a custom Tuple class to store the site and it's pagerank, and sort a list of Tuples based on pagerank.
