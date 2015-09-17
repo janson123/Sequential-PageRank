@@ -3,26 +3,16 @@
 
 SequentialPageRank is a java file that calculates the page ranks of different “sites” that link to other “sites” which are provided in an input file, the top 10 "sites" with their page ranks are printed to the console while all sorted "sites" and their page ranks are written to an output text file like the one provided in this repo. The format for the input files looks as such:
 
-`0
-
+`0 \n
 1 2
-
 2 1
-
 3 0 1
-
 4 1 3 5
-
 5 1 4
-
 6 1 4
-
 7 1 4
-
 8 1 4
-
 9 4
-
 10 4`
 
 In reality they aren't websites, they are just integers. This was a good exercise to test out the pagerank algorithm itself, before moving onto websites.
